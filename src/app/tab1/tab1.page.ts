@@ -39,7 +39,7 @@ export class Tab1Page {
         }
       ).catch(err => {
         console.clear()
-        console.error('Isso só funciona em um dispositivo android!')
+        console.error('Only works on a Android device!')
       })
   }
 }
